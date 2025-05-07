@@ -12,27 +12,29 @@ body{
     background-image: url('https://www.moneytimes.com.br/uploads/2025/01/capas-branded-fl-7.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100vh;
 }
 
 #texto{
     color: goldenrod;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 40px;
     height: 100px;
-    width: 520px;
+    width: 450px;
     margin-top: 50px;
     margin-bottom: 20px;
     background-color: rgba(0, 0, 0, 0.685);
     padding: 10px;
     display: flex;
     align-items: center;
+    justify-content: center;
     
 }
 
 #valor{
     color: goldenrod;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 40px;
     margin-bottom: 20px;
     background-color: rgba(0, 0, 0, 0.685);
     padding: 10px;
